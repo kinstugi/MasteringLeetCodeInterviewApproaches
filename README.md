@@ -8,15 +8,17 @@ Any intermediate programmer with a strong background in DSA should be able to fi
 Although the quiz/points aspect is one part of the idea, I also note an opportunity to try and incorporate a **spaced repetition learning** aspect to this.  It's very difficult to use spaced repetition in a meaningful way when dealing with LeetCode.  This finds a way to do so, should simplify the approach to learning!  Any previously answered or reviewed questions will be periodically incorporated with 'new' questions, based on how successfully the user has answered the question in the past.  Initially, I'll be building the quiz aspect: with the spaced repetition part coming later.
 
 The question in each quiz is always the same:
+
 **Which of the following approaches is considered the most optimal for solving this problem?**
-*
-LeetCode 1143. Longest Common Subsequence
+
+_LeetCode 1143. Longest Common Subsequence
 Given two strings text1 and text2, return the length of their longest common subsequence. If there is no common subsequence, return 0.
 A subsequence of a string is a new string generated from the original string with some characters (can be none) deleted without changing the relative order of the remaining characters.
 For example, "ace" is a subsequence of "abcde".
-A common subsequence of two strings is a subsequence that is common to both strings.*
+A common subsequence of two strings is a subsequence that is common to both strings._
 
 Users will be posed accurate, precise sample answers, like so:
-*A)  Two Pointers  B)  Hash Table  C) Greedy  D) Dynamic Programming and Memoization*
 
-If you guessed D, then congratulations!  You have clearly mastered DSA to a good level, and should hopefully be able to build upon this.
+_A)  Two Pointers  B)  Hash Table  C) Greedy  D) Dynamic Programming and Memoization_
+
+If you guessed D, then congratulations!  You have clearly mastered DSA to a good level - can you get the other 2500+ correct?
