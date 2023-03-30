@@ -11,6 +11,8 @@ The question in each quiz is always the same:
 
 **Which of the following approaches is considered the most optimal for solving this problem?**
 
+The user will be shown either a description or snapshot of the question, and prompted for a response.
+
 _LeetCode 1143. Longest Common Subsequence_
 
 
